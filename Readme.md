@@ -137,7 +137,7 @@ We welcome contributions to **GovGiggler**! Please follow these steps:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
+---   
 
 Let’s make government services accessible to all with the power of AI and automation!
 
